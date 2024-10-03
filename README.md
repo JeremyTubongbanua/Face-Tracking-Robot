@@ -1,5 +1,7 @@
 # Face Tracking Robot
 
+![Face Tracking Robot](./image.png)
+
 ## YouTube Demo
 
 <https://www.youtube.com/shorts/XLtfobL6sic?feature=share>
